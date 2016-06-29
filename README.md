@@ -4,4 +4,4 @@ In my mind there are 4 primary ways to produce ODS Graphic output: the Graphics 
 - The SG Designer is a straightforward point-and-click interface for producing ODS Graphics output. Though the functionality is still somewhat limited. Moreover, the programs produced by the GUI are written in GTL.
 - The technology that provides the right balance between ease of use and customizability is the family of SG procedures, and in particular SGPLOT.
 
-Next page: [SGPLOT Overview](https://github.com/srosanba/sas-sgplot/wiki/SGPLOT%20Overview)
+Next page: [SGPLOT Overview](https://github.com/RhoInc/sas-sgplot/wiki/SGPLOT%20Overview)
