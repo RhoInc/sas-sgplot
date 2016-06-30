@@ -175,7 +175,9 @@ proc template;
    define style styles.motstyle;
       parent=styles.motstyle0;
       class GraphFonts /
-         fontfamily = "&font, <MTserif>, <serif>"
+         "GraphDataFont"  = ("&font, <MTserif>, <serif>", 7pt)
+         "GraphValueFont" = ("&font, <MTserif>, <serif>", 9pt)
+         "GraphLabelFont" = ("&font, <MTserif>, <serif>",10pt)
          ;
    end;
 run;
