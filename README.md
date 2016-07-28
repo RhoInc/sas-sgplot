@@ -1,3 +1,5 @@
+**Why SGPLOT?**
+
 There are 4 primary ways to produce ODS Graphic output: the Graphics Template Language (GTL), statistical procedures, the SG Designer, and SG procedures.
 - GTL is the basis for all ODS Graphics output. Though you might not use GTL directly to produce your output, rest assured it is lurking just under the covers. But there is a steep learning curve.
 - The graphics produced by statistical procedures, while attractive, are rarely customizable enough to be suitable for commercial deliveries. 
