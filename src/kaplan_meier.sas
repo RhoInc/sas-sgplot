@@ -183,6 +183,7 @@ ods graphics /
    noborder 
    height=6in 
    width=6in
+   outputfmt=png
    ;
 
 ods rtf 
