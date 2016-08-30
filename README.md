@@ -1,4 +1,4 @@
-The ODS Graphics technology that provides *the right balance between ease of use and customizability* is the family of SG procedures, and in particular SGPLOT. To that end we have created a wiki.
+The ODS Graphics technology that provides *the right balance between ease of use and customizability* is the family of SG procedures, and in particular SGPLOT. Indeed, we are so enamored with SGPLOT that we have created a wiki.
 
 * The Home page contains a high-level overview of the SGPLOT procedure. 
 * The Examples pages each take an individual figure and break it down into bite-sized morsels.  
