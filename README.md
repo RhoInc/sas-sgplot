@@ -1,9 +1,10 @@
-**Why SGPLOT?**
+The ODS Graphics technology that provides *the right balance between ease of use and customizability* is the family of SG procedures, and in particular SGPLOT. To that end we have created a wiki.
 
-There are 4 primary ways to produce ODS Graphic output: the Graphics Template Language (GTL), statistical procedures, the SG Designer, and SG procedures.
-- GTL is the basis for all ODS Graphics output. Though you might not use GTL directly to produce your output, rest assured it is lurking just under the covers. But there is a steep learning curve.
-- The graphics produced by statistical procedures, while attractive, are rarely customizable enough to be suitable for commercial deliveries. 
-- The SG Designer is a straightforward point-and-click interface for producing ODS Graphics output. Though the functionality is still somewhat limited. Moreover, the programs produced by the interface are written in GTL.
-- The technology that provides *the right balance between ease of use and customizability* is the family of SG procedures, and in particular SGPLOT.
+* The Home page contains a high-level overview of the SGPLOT procedure. 
+* The Examples pages each take an individual figure and break it down into bite-sized morsels.  
+  * Succinct programs are also provided if you only want the code and not the explanation. 
+* The Etcetera pages cover various topics that apply broadly to figure production. 
+
+The hope is that the wiki contains enough material to guide you through the process of producing a figure without too much hand holding. Of course you are going to have questions. But the hope is they won't be questions like, "How do I make a scatter plot?"
 
 Next page: [SGPLOT Overview](https://github.com/RhoInc/sas-sgplot/wiki/Home)
